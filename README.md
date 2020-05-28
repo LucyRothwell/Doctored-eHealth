@@ -4,4 +4,5 @@
 
 **How to run**
 
-Simply run the file 'Main_script_CW' and the command interface instructions will take you through the programme.
+1. Naviagte to this directory
+2. Run the file 'Main_script_CW' (can be shared on request) and the command interface instructions will take you through the programme

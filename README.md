@@ -3,6 +3,7 @@
 ***Code is hidden (due to UCL policy) but can be shared on request***
 
 **Overview**
+
 This project is an electronic health record and booking system for a doctor (GP) Surgery. Functionality includes:
 * Register a new account (patients and doctors)
 * Login (patients, doctors, admin)

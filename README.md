@@ -1,6 +1,6 @@
 # Doctored e-Health
 
-***Code is hidden (due to UCL policy) but can be shared on request***
+*(Code is hidden due to UCL policy but can be shared on request)*
 
 **Overview**
 
